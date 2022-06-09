@@ -1,0 +1,10 @@
+{
+	"name" : "azhar kiryukhina",
+	"age" : 28,
+	"petCount" : 1,
+	"income" : {
+		"amount" : 1000,
+		"currency" : "USD"
+	}
+}
+
