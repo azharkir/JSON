@@ -1,1 +1,26 @@
+{
+  "summary" : "the app cannot find deliveryman after accepting order and payment",
+  "project" : "glovo app",
+  "component" : "delivery",
+  "version" : "5.168.1 246620",
+  "severity" : "minor",
+  "priority" : "medium",
+  "status" : "new",
+  "author" : "azhar kiryukhina",
+  "assigned to" : "developer",
+  "description" : {
+                "app" : "glovo",
+                "device" : "samsung a 52",
+                "os" : "android",
+                "version" : 12
+   },
+  "steps to reproduce" : {
+                       "one" : "make an order", 
+                       "two" : "confirm payment",
+                       "three" : "wait for assigning of deliveryman"
+  },
+ "actual outcome" : "deliveryman was not assigned during 80 minutes",
+  "expected outcome" : "deliveryman should be assigned during 10 minutes"
+}
+ 
 
